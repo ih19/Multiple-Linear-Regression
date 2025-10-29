@@ -90,9 +90,9 @@ This indicates that the relationship between house size and price depends on bed
 ---
 
 ih19/
-│
-├── MLR - RPlot.png              # Interaction and regression visualization
-├── MLR- Rcode.R                 # R script containing model code and plots
-├── real_estate_sales-1.xlsx     # Dataset used in the analysis
-└── README.md                    # Project documentation
+|
+| MLR - RPlot.png              # Interaction and regression visualization
+| MLR- Rcode.R                 # R script containing model code and plots
+| real_estate_sales-1.xlsx     # Dataset used in the analysis
+| README.md                    # Project documentation
 
